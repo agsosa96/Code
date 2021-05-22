@@ -1,0 +1,28 @@
+.img{
+    width: 300px;
+    height: 300px;
+}
+
+.container_total {
+   display: flex;
+   flex-wrap: wrap;
+    
+}
+
+.container_text{
+    max-height: 10%;
+    width: 50%;
+    max-width: 700px;
+    justify-content: center;
+    align-items: center;
+    margin-top: 75px;
+    margin-left: 40px;
+}
+
+.img-play {
+    position: absolute;
+    top: 125px;
+    left: 125px;
+    width: 50px;
+    height: 50;
+}
